@@ -43,7 +43,7 @@ int main() {
     printf("Esse estado possui: %d pontos turisticos\n", pontos);
 
     printf("O estado de %s, também conhecido como paraiso das aguas cujo o código é o %s, possui ao todo %d pontos turitsticos\n", estado, codigo, pontos);
-    printf("Também conta hoje com uma população de %d milhões de pessoas que está distribuida em uma área de %d km2, ao todo o estado conta com um pib de %d bilhões, sendo a maior parte vivendo na capital %s\n", populacao, area, pib, cidade);
+    printf("Também conta hoje com uma população de %d milhões de pessoas que está distribuida em uma área de %d km2, ao todo o estado conta com um pib de %d bilhões, sendo a maior parte concentrada na capital %s\n", populacao, area, pib, cidade);
 
     //Carta 2
     
@@ -76,7 +76,7 @@ int main() {
     printf("Esse estado possui: %d pontos turisticos\n", pontos);
 
     printf("O estado de %s, também conhecido como terra das boas comidas cujo o código é o %s, possui ao todo %d pontos turitsticos\n", estado, codigo, pontos);
-    printf("Também conta hoje com uma população de %d milhões de pessoas que está distribuida em uma área de %d km2, ao todo o estado conta com um pib de %d bilhões, sendo a maior parte vivendo na capital %s\n", populacao, area, pib, cidade);
+    printf("Também conta hoje com uma população de %d milhões de pessoas que está distribuida em uma área de %d km2, ao todo o estado conta com um pib de %d bilhões, sendo a maior parte concentrada na capital %s\n", populacao, area, pib, cidade);
 
     return 0;
 }
